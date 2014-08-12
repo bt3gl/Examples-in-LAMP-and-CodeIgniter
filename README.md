@@ -1,4 +1,5 @@
-ToDo-Web-App
-============
+bt3gl ToDo App
+==============
 
-My customized TODO web app.
+Customized todo list.
+
