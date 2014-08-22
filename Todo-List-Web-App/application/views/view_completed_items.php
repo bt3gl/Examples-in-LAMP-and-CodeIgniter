@@ -17,10 +17,11 @@
 <body>
 
 <div id="container">
-    <h1>The tasks you have:</h1>
+    <h1>The completed tasks:</h1>
 
     <div id="body">
        <?php print $task; ?>
+    
     </div>
 
     <p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>

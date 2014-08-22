@@ -1,5 +1,9 @@
-bt3gl ToDo App
-==============
+Examples using LAMP and CodeIgniter
+====================================
+
+
+TODO LIST WEB APP
+-----------------
 
 A customized todo list in PHP, using the LAMP framework.
 
