@@ -40,8 +40,8 @@
 $route['default_controller'] = 'todo_app';
 $route['todo'] = 'todo_app/index';
 $route['add'] = 'todo_app/add_item';
+$route['tasks'] = 'todo_app/view_items';
 $route['delete'] = 'todo_app/delete_item';
-
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
