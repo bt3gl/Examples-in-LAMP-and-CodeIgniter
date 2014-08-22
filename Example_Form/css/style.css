@@ -1,0 +1,63 @@
+/* CSS Document */
+body{
+	background:#E5E5E5;
+	margin:0px;
+	padding:0px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#login_form{
+	width:300px;
+	padding:5px;
+	border:1px solid #000;
+	margin: 250px auto;
+	border-radius:5px;
+}
+h1{
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top:0px;
+	font-size:18px;
+}
+h2{
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top:0px;
+	font-size:18px;
+	text-align:center;
+}
+input[type=text], input[type=password]{
+	display:block;
+	margin:0px 0px 5px 0px;
+	width:280px;
+	padding:3px;
+}
+input[type=submit], form a{
+	border:none;
+	padding:5px;
+	background:#A3A375;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-right:10px;
+	margin-top:10px;
+	text-decoration:none;
+	border-radius:3px;
+	color:#FFF;	
+}
+input[type=submit]{
+	padding:5px 15px 5px 15px;
+}
+input[type=submit]:hover, form a:hover{
+	background:#7A7A52;
+	cursor:pointer;
+}
+.error{
+	color:#CCC;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+
+fieldset{
+	width:300px;
+	margin:auto;
+	margin-bottom:5px;
+	display:block;
+	font-size:14px;
+}
